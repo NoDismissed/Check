@@ -1,0 +1,5 @@
+C:\Users\EderLopez(designory)\source\repos\Up\Check\Check\bin\Debug\Check.exe.config
+C:\Users\EderLopez(designory)\source\repos\Up\Check\Check\bin\Debug\Check.exe
+C:\Users\EderLopez(designory)\source\repos\Up\Check\Check\obj\Debug\Check.csproj.AssemblyReference.cache
+C:\Users\EderLopez(designory)\source\repos\Up\Check\Check\obj\Debug\Check.csproj.CoreCompileInputs.cache
+C:\Users\EderLopez(designory)\source\repos\Up\Check\Check\obj\Debug\Check.exe
